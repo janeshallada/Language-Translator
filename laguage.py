@@ -1,5 +1,4 @@
-pip install googletrans==4.0.0-rc1
-
+#code for language translator
 pip install googletrans==4.0.0-rc1
 from googletrans import Translator
 
